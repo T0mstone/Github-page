@@ -2,4 +2,4 @@
 # Hypercube
 <img src="https:\/\/raw.githubusercontent.com/T0mstone/T0mstone.github.io/master/hypercube.gif">
 # Mandelbrot
-<img src="https:\/\/raw.githubusercontent.com/T0mstone/T0mstone.github.io/master/mandelbrot_4k.png">
+<img src="https:\/\/raw.githubusercontent.com/T0mstone/T0mstone.github.io/master/mandelbrot_4k.png" width="600">
