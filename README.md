@@ -1,2 +1,2 @@
 # My GitHub Pages Page
-[t0mstone.github.io]
+[go there](t0mstone.github.io)
