@@ -1,2 +1,2 @@
 # My GitHub Pages Page
-[go there](https://t0mstone.github.io)
+I rendered a hypercube and a mandelbrot set using my own pyhton code
