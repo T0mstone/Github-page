@@ -1,1 +1,0 @@
-initSidebarItems({"fn":[["unzip","Converts `Vec<(T, U)>` to `(Vec<T>, Vec<U>)`"],["zip","Converts `(Vec<T>, Vec<U>)` to `Vec<(T, U)>`"]],"trait":[["VecUnzipTrait","The same as the `unzip` function but called as `Vec::unzip`"],["VecZipTrait","The same as the `zip` function but called as `Vec::zip`"]]});
